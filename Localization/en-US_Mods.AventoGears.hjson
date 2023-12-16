@@ -1,0 +1,28 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	FirstGear: {
+		DisplayName: The First Gear
+		Tooltip: ""
+	}
+
+	ThirdGear: {
+		Tooltip: ""
+		DisplayName: The Third Gear
+	}
+
+	SecondGear: {
+		Tooltip: ""
+		DisplayName: The Second Gear
+	}
+
+	FourthGear: {
+		Tooltip: ""
+		DisplayName: The Fourth Gear
+	}
+
+	FifthGear: {
+		Tooltip: ""
+		DisplayName: The Fifth Gear
+	}
+}

@@ -1,0 +1,3 @@
+displayName = Avento Gears
+author = OMEGA
+version = 0.1
